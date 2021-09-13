@@ -84,3 +84,22 @@ SimpleCov.start
 ```
 
 You can see your test coverage when you run your tests. If you want this in a graphical form, uncomment the `HTMLFormatter` line and see what happens!
+
+--------------------
+
+## User Story Domain Modelling
+
+| Input              | Output                     |
+
+As a marketeer
+So that I can see my name in lights
+I would like to register my name before playing an online game
+
+| enter name         | name is shown              |
+
+As a marketeer
+So that I can enjoy myself away from the daily grind
+I would like to be able to play rock/paper/scissors
+
+| user choses r,p,s  | winner is declared         |
+
